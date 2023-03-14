@@ -1,5 +1,7 @@
 # speakermodels
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7734357.svg)](https://doi.org/10.5281/zenodo.7734357)
+
 This repository contains R code required to replicate the analyses presented in the following paper:
 
 > Kauhanen, Henri (in prep) Grammar competition, speaker models and rates of change: A critical reappraisal of the Constant Rate Hypothesis. Ms., University of Konstanz.
